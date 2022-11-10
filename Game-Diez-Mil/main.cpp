@@ -2,11 +2,16 @@
 
 # include <iostream>
 # include <cstdlib>
-# include <ctime>
+# include <ctime> // srand
 # include <stdio.h>
 # include <cstring>
 
-//enter
+
+//funcion SLEEP()
+#include<windows.h>
+
+
+//enter getch()
 #include <conio.h>
 
 //Rlutil
@@ -17,7 +22,7 @@
 #include "funciones.h"
 #include "combinacionesdados.h"
 
-//-----------------------------------//
+//------------------------------------------//
 
 using namespace std;
 

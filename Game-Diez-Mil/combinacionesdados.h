@@ -30,9 +30,8 @@ int ContarNumeros(int v[],int valor){
 
 ///-----------------------------------------------------------------------------------/// jugada = 1
 
+
 ///----Nombre de JUGADA: Juego de 1
-
-
 
 int JuegoDe1(int v[], int tam){
 int D1=0,i,Puntos=0;
@@ -54,7 +53,6 @@ int D1=0,i,Puntos=0;
 
 
 ///----Nombre de JUGADA: Juego de 5
-
 
 int JuegoDe5(int v[], int tam){
 int D5=0,i,Puntos=0;
@@ -89,14 +87,11 @@ int Trio1(int v[], int tam){
         return Puntos;
 }
 
-
-
 ///-----------------------------------------------------------------------------------/// jugada = 4
 
 ///----Nombre de JUGADA: trio de X++ (x ==> es el numero de dado)
 
 // X*100
-
 
 int TriodeX(int v[], int tam){
   int D2=0,D3=0,D4=0,D5=0,D6=0,i,Puntos=0;
@@ -171,9 +166,6 @@ int Trio1Amp(int v[], int tam){
 
 ///----Nombre de JUGADA: Escalera Larga
 
-
-
-
  int EscaleraLarga(int v[], int tam){
 int D1=0,D2=0,D3=0,D4=0,D5=0,D6=0,i,Puntos=0;
     for (i=0;i<tam;i++){
@@ -222,6 +214,7 @@ int D1=0, Puntos=0;
 }
 
 ///-----------------------------------------------------------------------------------///
+
 
 
 
