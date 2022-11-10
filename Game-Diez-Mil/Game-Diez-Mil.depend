@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1668095097 source:c:\users\joaquin\desktop\game-diez-mil\game-diez-mil\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<cstring>
+	<conio.h>
+	"rlutil.h"
+	"funciones.h"
+	"combinacionesdados.h"
+
+1571584339 c:\users\joaquin\desktop\game-diez-mil\game-diez-mil\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668095257 c:\users\joaquin\desktop\game-diez-mil\game-diez-mil\funciones.h
+
+1667591582 c:\users\joaquin\desktop\game-diez-mil\game-diez-mil\combinacionesdados.h
+
